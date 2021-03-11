@@ -1,2 +1,2 @@
-# Hello-world
-programas en clases 
+# HELLO-WORLD
+ ejercicios en clase
